@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MultipleCondition" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-05-14T01:39:09" hostname="DESKTOP-58LS5KN" time="0.046">
+<testsuite name="MultipleCondition" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-05-14T09:15:06" hostname="DESKTOP-58LS5KN" time="0.068">
   <properties/>
-  <testcase name="test10()" classname="MultipleCondition" time="0.028"/>
-  <testcase name="test11()" classname="MultipleCondition" time="0.001"/>
+  <testcase name="test10()" classname="MultipleCondition" time="0.033"/>
+  <testcase name="test11()" classname="MultipleCondition" time="0.003"/>
   <testcase name="test12()" classname="MultipleCondition" time="0.001"/>
-  <testcase name="test13()" classname="MultipleCondition" time="0.001"/>
+  <testcase name="test13()" classname="MultipleCondition" time="0.002"/>
   <testcase name="test1()" classname="MultipleCondition" time="0.001"/>
   <testcase name="test2()" classname="MultipleCondition" time="0.001"/>
   <testcase name="test3()" classname="MultipleCondition" time="0.001"/>
   <testcase name="test4()" classname="MultipleCondition" time="0.001"/>
   <testcase name="test5()" classname="MultipleCondition" time="0.001"/>
-  <testcase name="test6()" classname="MultipleCondition" time="0.0"/>
+  <testcase name="test6()" classname="MultipleCondition" time="0.001"/>
   <testcase name="test7()" classname="MultipleCondition" time="0.001"/>
   <testcase name="test8()" classname="MultipleCondition" time="0.001"/>
-  <testcase name="test9()" classname="MultipleCondition" time="0.001"/>
+  <testcase name="test9()" classname="MultipleCondition" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

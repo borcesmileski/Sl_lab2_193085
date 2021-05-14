@@ -98,7 +98,7 @@ class EveryBranch {
 
 <h2>Тест случаи според критериумот Multiple condition</h2>
 <p>Овие тест случаеви каде имам услов со повеќе можни решенија</p>
-
+###
 class MultipleCondition {
     //1,2,3,4,8
     @Test

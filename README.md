@@ -250,6 +250,5 @@ class MultipleCondition {
             assertEquals(e.getMessage(), "The time is greater than the maximum");
         }
     }
-
 }
 </code>
